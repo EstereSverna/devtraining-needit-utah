@@ -167,5 +167,176 @@
             <sys_updated_on>2024-11-15 13:11:24</sys_updated_on>
             <value>department choice 2</value>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Department Choice 1</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>estere.sverna</sys_created_by>
+            <sys_created_on>2024-11-25 11:21:49</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path>!!!/!!!/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>estere.sverna</sys_updated_by>
+            <sys_updated_on>2024-11-25 11:21:49</sys_updated_on>
+            <value>department choice 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Department Choice 2</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>estere.sverna</sys_created_by>
+            <sys_created_on>2024-11-25 11:21:49</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path>!!!/!!!/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>estere.sverna</sys_updated_by>
+            <sys_updated_on>2024-11-25 11:21:49</sys_updated_on>
+            <value>department choice 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facilities 1</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>estere.sverna</sys_created_by>
+            <sys_created_on>2024-11-25 11:21:49</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path>!!!/!!!/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>estere.sverna</sys_updated_by>
+            <sys_updated_on>2024-11-25 11:21:49</sys_updated_on>
+            <value>facilities 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facilities 2</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>estere.sverna</sys_created_by>
+            <sys_created_on>2024-11-25 11:21:49</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path>!!!/!!!/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>estere.sverna</sys_updated_by>
+            <sys_updated_on>2024-11-25 11:21:49</sys_updated_on>
+            <value>facilities 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Human Resources 1</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>estere.sverna</sys_created_by>
+            <sys_created_on>2024-11-25 11:21:49</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path>!!!/!!!/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>estere.sverna</sys_updated_by>
+            <sys_updated_on>2024-11-25 11:21:49</sys_updated_on>
+            <value>human resources 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Human Resources 2</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>estere.sverna</sys_created_by>
+            <sys_created_on>2024-11-25 11:21:49</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path>!!!/!!!/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>estere.sverna</sys_updated_by>
+            <sys_updated_on>2024-11-25 11:21:49</sys_updated_on>
+            <value>human resources 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Legal 1</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>estere.sverna</sys_created_by>
+            <sys_created_on>2024-11-25 11:21:49</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path>!!!/!!!/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>estere.sverna</sys_updated_by>
+            <sys_updated_on>2024-11-25 11:21:49</sys_updated_on>
+            <value>legal 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Legal 2</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>estere.sverna</sys_created_by>
+            <sys_created_on>2024-11-25 11:21:49</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path>!!!/!!!/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>estere.sverna</sys_updated_by>
+            <sys_updated_on>2024-11-25 11:21:49</sys_updated_on>
+            <value>legal 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>estere.sverna</sys_created_by>
+            <sys_created_on>2024-11-25 13:25:32</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path>!!!/!!!/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>estere.sverna</sys_updated_by>
+            <sys_updated_on>2024-11-25 13:25:32</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
     </sys_choice>
 </record_update>
